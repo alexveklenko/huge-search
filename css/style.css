@@ -52,7 +52,8 @@ input[type="submit"] {
 	        border-radius: 3px;
 	color: #c2c2c2;
 	padding: 10px;
-	width: 315px;
+	width: 95%;
+	max-width: 315px;
 }
 .ba-links a:hover {
 	background-color: rgba(118,117,128,0.1);
@@ -76,4 +77,6 @@ input[type="submit"] {
 	-webkit-border-radius: 50%;
 	        border-radius: 50%;
 }
-
+.ba-people {
+	vertical-align: top;
+}
